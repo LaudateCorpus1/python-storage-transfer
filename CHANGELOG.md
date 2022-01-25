@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/googleapis/python-storage-transfer/compare/v1.1.1...v1.2.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#52](https://github.com/googleapis/python-storage-transfer/issues/52)) ([156018b](https://github.com/googleapis/python-storage-transfer/commit/156018bebebd48b7755bda1edf04503277ea698c))
+
 ### [1.1.1](https://www.github.com/googleapis/python-storage-transfer/compare/v1.1.0...v1.1.1) (2021-11-01)
 
 
